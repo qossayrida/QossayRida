@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/qossayrida" target="blank"><img src="https://img.shields.io/twitter/follow/qossayrida?logo=twitter&style=for-the-badge" alt="Qossay Rida" /></a> </p>
 
-- All of my projects are available [here](https://github.com/qossayridi)
+- All of my projects are available [here](https://github.com/qossayrida)
   
 - How to reach me **aqusay06@gmail.com**
 
