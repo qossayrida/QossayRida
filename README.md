@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qossay Rida</h1>
-<h3 align="center">A passionate Backend developer from Palestine</h3>
+<h3 align="center">A Full Stack & Arduino developer from Palestine</h3>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qossayridi&label=Profile%20views&color=0e75b6&style=flat" alt="qossayridi" /> </p>
 
@@ -9,9 +11,7 @@
   
 - How to reach me **aqusay06@gmail.com**
 
-- Ask me about **Backend & DV**
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
