@@ -17,7 +17,7 @@
 <a href="https://www.facebook.com/qossay.rida?mibextid=2JQ9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="QossayRida" height="30" width="40" /></a>
 <a href="https://twitter.com/qossayrida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="QossayRida" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/qossay-rida-3aa3b81a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qossayrida" height="30" width="40" /></a>
-<a href="https://instagram.com/qossay.rida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qossay.rida" height="30" width="40" /></a>
+<a href="https://instagram.com/qossay_rida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qossay_rida" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
