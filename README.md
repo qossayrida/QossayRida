@@ -59,8 +59,9 @@
     <br>
     <br>
         
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qossayrida&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qossayrida&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark&langs_count=25" alt="GitHub Most Used Languages" height="200"/>
    <br>
    <br>
+
 </div>
 
